@@ -1,2 +1,2 @@
 # modernXP-cursor-theme
-A pixel-perfect remastering of the orignal Windows XP cursors, with a modern touch.
+To build you need to have installed xcursorgen and Inkscape, simply run the build and install scripts (thanks to vinceliuce, since the script was based on the one he does for his cursor themes)
