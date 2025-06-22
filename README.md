@@ -1,5 +1,5 @@
 # modernXP-cursor-theme
-Cursor set made to be a pixel-perfect recreation of the classic Windows XP cursor set, with smoother colors and with 200% and 300% scaling
+XCursor theme for Linux made to be a pixel-perfect recreation of the classic Windows XP cursor set, with smoother colors and with 200% and 300% scaling
 
 ![alt text](https://github.com/na0miluv/modernXP-cursor-theme/blob/main/preview.png?raw=true)
 
